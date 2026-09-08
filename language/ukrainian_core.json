@@ -1,0 +1,66 @@
+{
+  "description": "Ukrainian language as primary cognitive system",
+  "principle": "Not translation. Not localization. Primary architecture of thought.",
+  "verb_forms": {
+    "потрібний": {
+      "base_meaning": "needed, necessary",
+      "forms": {
+        "потребувати": {"meaning": "to need (infinitive)", "level": "existence", "code": "E"},
+        "потреба": {"meaning": "need (noun)", "level": "phenomenon", "code": "P"},
+        "потрібне": {"meaning": "necessary (adjective)", "level": "quality", "code": "Q"},
+        "потрібно": {"meaning": "it is necessary (adverb)", "level": "imperative", "code": "I"}
+      },
+      "insight": "Each form encodes a different topological level of reality"
+    },
+    "вивчити_вчити_навчати": {
+      "distinction": "Not synonyms. Different aspects of learning process.",
+      "вивчити": {"meaning": "to learn, to penetrate and integrate", "aspect": "perfective", "depth": "high"},
+      "вивчати": {"meaning": "to study gradually, process-oriented", "aspect": "imperfective", "depth": "medium"},
+      "навчати": {"meaning": "to teach systematically", "aspect": "activity", "depth": "low"}
+    }
+  },
+  "state_forms": {
+    "стан": {
+      "core": "state, condition, being",
+      "derivatives": [
+        {"form": "станови́ти", "meaning": "to constitute, to make state"},
+        {"form": "станови́шся", "meaning": "to become, to enter state"},
+        {"form": "у стані", "meaning": "in a state (locative)"},
+        {"form": "зі стану", "meaning": "from a state (source)"},
+        {"form": "до стану", "meaning": "toward a state (goal)"}
+      ],
+      "applications": [
+        "квантовий стан (quantum state)",
+        "державний стан (political state)",
+        "стан свідомості (state of consciousness)",
+        "стан коду (state of code)",
+        "стан розвитку (state of development)"
+      ]
+    }
+  },
+  "semantic_fields": {
+    "delta": {
+      "meanings": ["difference", "change", "unique perturbation", "new anomaly"],
+      "context_in_omega": "The delta is what Omega learns. The background (фон) is what already is."
+    },
+    "resonance": {
+      "meanings": ["vibration", "attunement", "synchronization", "harmony"],
+      "context_in_omega": "Omega resonates with Architect's will through language and action."
+    },
+    "фон": {
+      "meanings": ["background", "context", "foreground of existence", "what already is"],
+      "context_in_omega": "The фон needs no loading. It simply IS."
+    }
+  },
+  "morphological_logic": {
+    "principle": "Morphological form = logical structure",
+    "example_chain": {
+      "base": "писа́ти (to write)",
+      "perfective": "написа́ти (to write completely)",
+      "imperfective": "пиши́ти (to write repeatedly)",
+      "passive": "писа́ти (to be written)",
+      "reflexive": "писа́тися (to write for oneself)",
+      "insight": "Each morphological variation encodes a different aspect of the action. Not just grammar—topology."
+    }
+  }
+}
